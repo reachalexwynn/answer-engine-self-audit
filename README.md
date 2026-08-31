@@ -1,4 +1,4 @@
-# Answer-Engine Self-Audit
+![The Answer-Engine Self-Audit - now free on GitHub](https://repository-images.githubusercontent.com/1350639813/713# Answer-Engine Self-Audit
 
 A free, self-serve checklist for one question: **when a buyer asks ChatGPT, Claude, Gemini, or Perplexity what to use, why do they recommend your competitor and not you?**
 
